@@ -3,11 +3,6 @@ using namespace std;
 //Cash register
 int main()
 {
-	/*string garlands = "garlands",
-		hanging = "hanging toys",
-		candles = "candles",
-		snow = "artificial snow",
-		goods_user;*/
 	int num_goods, num_switch, goods_1_num = 10,
 		goods_2_num = 20, goods_3_num = 30,
 		goods_4_num = 5;
